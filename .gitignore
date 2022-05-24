@@ -5,3 +5,4 @@ errors.txt
 .ipynb_checkpoints
 ml-training/SECRECY-EN/data/*
 SECRECY-EN_*
+data/*
